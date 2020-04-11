@@ -1,0 +1,6 @@
+Observable Trends
+1. Honolulu had up to 7 inches of rain in trailing twelve months. Months with more than 3 inches of rain include: September, October, February, April, and July.
+
+2. The lowest temperature is shown at the most active station (54.0°F), along with highest (85.0°F), and average (71.7°F) in the previous twelve months.
+
+3. "Aggregate Daily Normals for Trip Dates" showed extreme temperature ranges (low 60°F and high 88°F) even though predicted average temperatures remain in the mid 70s°F.
